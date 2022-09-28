@@ -27,6 +27,19 @@ body{
 
 }
 
+#imagenUno{
+    width: 350px;
+    height: 350px;
+    transition: all 2s;
+
+}
+
+#imagenUno:hover {
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+    background-color: black;
+}
 
 
 #wpp_flotante img{
